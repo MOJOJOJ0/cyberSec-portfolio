@@ -1,3 +1,4 @@
+## write a short description that explains the 10-character string in the example. You should describe what the 10-character string is for and what each character represents.
 <img width="645" alt="Screenshot 2025-04-10 at 8 22 51 PM" src="https://github.com/user-attachments/assets/b308b399-c506-497d-9871-0d9051e7754c" />
  
 
