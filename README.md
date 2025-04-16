@@ -1,2 +1,2 @@
-# cyberSec-portfolio
-goal? demonstrate security education, skills, and knowledge.
+# goal
+demonstrate security education, skills, and knowledge.
