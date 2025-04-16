@@ -1,3 +1,4 @@
+## The organization does not allow others to have write access to any files. Identify which file needs to have its permissions modified. Use a Linux command to modify these permissions.
 `researcher2@7f39269f1fd3:~/projects$ chmod o-w project_k.txt`
 
 
