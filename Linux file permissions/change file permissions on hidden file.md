@@ -1,1 +1,2 @@
+## The research team has archived .project_x.txt, which is why it’s a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file. Use a Linux command to assign .project_x.txt the appropriate authorization.
 <img width="663" alt="Screenshot 2025-04-15 at 6 30 48 PM" src="https://github.com/user-attachments/assets/6bff057b-3cd4-461d-8cf0-8fbc761e5edc" />
