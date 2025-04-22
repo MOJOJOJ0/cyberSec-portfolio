@@ -6,6 +6,11 @@ Describe your query and how it works in the Retrieve after hours failed login at
 ---
 <img width="706" alt="Screenshot 2025-04-18 at 5 26 28 PM" src="https://github.com/user-attachments/assets/0f652049-8f0f-4a1a-bade-aa791320c4f4" />
 
+```sql
+SELECT *
+FROM log_in_attempts
+WHERE login_time >= '18:00' AND success = 0;
+```
 
 ## Explanation:
 1. Filtering Failed Attempts:
